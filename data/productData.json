@@ -1,0 +1,46 @@
+[ {
+    "productId": "p_012",
+    "name":"New Generation Laptop",
+    "price": "$4000",
+    "manufacturer": "Dell Inspiron",
+    "seller": "ABC Electronics India Pvt Ltd.",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWUphA?ver=e7f7",
+    "rating": 4
+},
+{
+    "productId": "p_016",
+    "name":"Iphone 14 Max Pro",
+    "price": "$2300",
+    "manufacturer": "Dell Inspiron",
+    "seller": "ABC Electronics India Pvt Ltd.",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWUphA?ver=e7f7",
+    "rating": 4.5
+},
+{
+    "productId": "p_017",
+    "name":"Pen Drive",
+    "price": "$1200",
+    "manufacturer": "Dell Inspiron",
+    "seller": "ABC Electronics India Pvt Ltd.",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWUphA?ver=e7f7",
+    "rating": 2.5
+},
+{
+    "productId": "p_018",
+    "name":"New Generation Laptop",
+    "price": "$2300",
+    "manufacturer": "Dell Inspiron",
+    "seller": "ABC Electronics India Pvt Ltd.",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWUphA?ver=e7f7",
+    "rating": 4.5
+},
+{
+    "productId": "p_019",
+    "name":"Harddisk",
+    "price": "$4300",
+    "manufacturer": "Dell Inspiron",
+    "seller": "ABC Electronics India Pvt Ltd.",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWUphA?ver=e7f7",
+    "rating": 3.5
+}
+]
